@@ -7,7 +7,6 @@
 //
 
 #import "TCLogJson.h"
-#import "GetJson.h"
 #import <Foundation/Foundation.h>
 
 

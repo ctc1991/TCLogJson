@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		6892B0F51BFE190A00F37329 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6892B0F41BFE190A00F37329 /* main.m */; };
 		6892B0FE1BFE198B00F37329 /* TCLogJson.m in Sources */ = {isa = PBXBuildFile; fileRef = 6892B0FD1BFE198B00F37329 /* TCLogJson.m */; };
-		6892B1011BFE1D6500F37329 /* GetJson.m in Sources */ = {isa = PBXBuildFile; fileRef = 6892B1001BFE1D6500F37329 /* GetJson.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,8 +28,6 @@
 		6892B0F41BFE190A00F37329 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		6892B0FC1BFE198B00F37329 /* TCLogJson.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TCLogJson.h; sourceTree = "<group>"; };
 		6892B0FD1BFE198B00F37329 /* TCLogJson.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TCLogJson.m; sourceTree = "<group>"; };
-		6892B0FF1BFE1D6500F37329 /* GetJson.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GetJson.h; sourceTree = "<group>"; };
-		6892B1001BFE1D6500F37329 /* GetJson.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GetJson.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,8 +62,6 @@
 			isa = PBXGroup;
 			children = (
 				6892B0F41BFE190A00F37329 /* main.m */,
-				6892B0FF1BFE1D6500F37329 /* GetJson.h */,
-				6892B1001BFE1D6500F37329 /* GetJson.m */,
 			);
 			path = TCLogJsonDemo;
 			sourceTree = "<group>";
@@ -139,7 +134,6 @@
 			files = (
 				6892B0F51BFE190A00F37329 /* main.m in Sources */,
 				6892B0FE1BFE198B00F37329 /* TCLogJson.m in Sources */,
-				6892B1011BFE1D6500F37329 /* GetJson.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

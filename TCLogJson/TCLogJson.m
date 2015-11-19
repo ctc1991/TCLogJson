@@ -6,7 +6,6 @@
 //
 
 #import "TCLogJson.h"
-#import "GetJson.h"
 @implementation NSString (TCLogJson)
 
 - (NSString *)description {
